@@ -35,7 +35,7 @@ Attrition analysis helps businesses understand which customer groups are more li
 |------|-------|-------------|
 | Data Extraction | SQL | Wrote beginner-level queries to filter and analyze customer segments. |
 | Data Prep | Excel | Cleaned and organized data into summary sheets and visuals. |
-| Reporting | Python (optional) | Automated data export and Excel formatting (optional step). |
+| Reporting | Python | Automated data export and Excel formatting. |
 | Visualization | Tableau | Built an interactive dashboard with charts and annotations. |
 
 ---
