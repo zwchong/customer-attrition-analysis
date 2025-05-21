@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project explores customer attrition patterns using a real-world telecom dataset. The goal is to generate business insights using SQL and Excel, then tell a compelling story through a Tableau dashboard.
+This project explores customer attrition patterns using a real-world telecom dataset from Kaggle. The goal is to generate business insights using SQL and Excel, then tell a compelling story through a Tableau dashboard.
 
 Attrition analysis helps businesses understand which customer groups are more likely to leave and why. These insights can inform strategies for customer retention, onboarding improvements, and service enhancements.
 
