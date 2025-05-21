@@ -43,7 +43,7 @@ Attrition analysis helps businesses understand which customer groups are more li
 ## Tableau Dashboard
 
 [**View the Tableau Dashboard**](#) *(https://public.tableau.com/views/CustomerAttritionAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
-![Dashboard Screenshot](docs/Dashboard-Preview.png)
+[Dashboard Screenshot](Dashboard-Preview.png)
 
 
 
@@ -51,29 +51,27 @@ Attrition analysis helps businesses understand which customer groups are more li
 
 ## Project Structure
 customer-attrition-analysis/
-│
-├── README.md # Project summary
-├── /data/ # Source CSVs and cleaned data
-├── /sql/ # SQL queries used in the project
-├── /python/ # Optional automation scripts
-├── /tableau/ # Workbook and screenshots
-└── /docs/ # PDF exports or annotated visuals
+** README.md # Project summary
+** /data/ # Source CSVs and cleaned data
+** /sql/ # SQL queries used in the project
+** /python/ # Optional automation scripts
+** /tableau/ # Workbook and screenshots
+** /docs/ # PDF exports or annotated visuals
 
 ---
 
 ## What I Learned
 
-- How to extract insights using **SQL** with beginner-friendly queries
-- Structuring a business question around **attrition analysis**
-- Using **Excel and Tableau** to communicate data visually and clearly
-- Importance of **storytelling** and formatting in a data portfolio
+- How to extract insights using SQL with beginner-friendly queries
+- Structuring a business question around attrition analysis
+- Using Excel and Tableau to communicate data visually and clearly
+- Importance of storytelling and formatting in a data portfolio
 
 ---
 
 ## Possible Next Steps
 
-- Add churn prediction with **logistic regression** (Python or Power BI)
-- Use **dbt** or **Looker Studio** for more scalable analytics
+- Add churn prediction with logistic regression (Python or Power BI)
 - Expand to real-world customer datasets (e.g., Kaggle)
 
 ---
