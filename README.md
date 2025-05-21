@@ -51,12 +51,12 @@ Attrition analysis helps businesses understand which customer groups are more li
 
 ## Project Structure
 customer-attrition-analysis/
-** README.md # Project summary
-** /data/ # Source CSVs and cleaned data
-** /sql/ # SQL queries used in the project
-** /python/ # Optional automation scripts
-** /tableau/ # Workbook and screenshots
-** /docs/ # PDF exports or annotated visuals
+- README.md # Project summary
+- /data/ # Source CSVs and cleaned data
+- /sql/ # SQL queries used in the project
+- /python/ # Optional automation scripts
+- /tableau/ # Workbook and screenshots
+- /docs/ # PDF exports or annotated visuals
 
 ---
 
